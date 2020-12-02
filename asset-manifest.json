@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooks-todo-app/static/css/main.427275ce.chunk.css",
+    "main.js": "/hooks-todo-app/static/js/main.0557c051.chunk.js",
+    "main.js.map": "/hooks-todo-app/static/js/main.0557c051.chunk.js.map",
+    "runtime-main.js": "/hooks-todo-app/static/js/runtime-main.841cac6d.js",
+    "runtime-main.js.map": "/hooks-todo-app/static/js/runtime-main.841cac6d.js.map",
+    "static/js/2.3be25a88.chunk.js": "/hooks-todo-app/static/js/2.3be25a88.chunk.js",
+    "static/js/2.3be25a88.chunk.js.map": "/hooks-todo-app/static/js/2.3be25a88.chunk.js.map",
+    "index.html": "/hooks-todo-app/index.html",
+    "precache-manifest.6f6574c805ff6506f53d9d363badb7a9.js": "/hooks-todo-app/precache-manifest.6f6574c805ff6506f53d9d363badb7a9.js",
+    "service-worker.js": "/hooks-todo-app/service-worker.js",
+    "static/css/main.427275ce.chunk.css.map": "/hooks-todo-app/static/css/main.427275ce.chunk.css.map",
+    "static/js/2.3be25a88.chunk.js.LICENSE.txt": "/hooks-todo-app/static/js/2.3be25a88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.841cac6d.js",
+    "static/js/2.3be25a88.chunk.js",
+    "static/css/main.427275ce.chunk.css",
+    "static/js/main.0557c051.chunk.js"
+  ]
+}
